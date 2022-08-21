@@ -76,5 +76,5 @@ highlight_name: true
 
 I am a third year PhD student in Economics at Humboldt-Universität zu Berlin and a PhD fellow at the German Institute for Economic Research (DIW Berlin). In Fall 2022, I will be a Visiting Student Research Collaborator at the Economics Department at Princeton University. I am passionate about the potential of New Keynesian models with household heterogeneity to address the interaction between macroeconomic aggregates and inequality.  
 
-# {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
 
