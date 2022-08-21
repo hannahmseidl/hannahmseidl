@@ -1,12 +1,12 @@
 ---
 # Display name
-title: Hannah M. Seidl
+title: Hannah Seidl
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Ph.D student in Economics at 
+role: Ph.D. student in Economics 
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -18,9 +18,10 @@ bio: My research interests include distributed robotics, mobile computing and pr
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Monetary and Fiscal Policy
+  - Household Heterogeneity
+  - Housing 
+  - Financial Frictions
 
 # Education to show in About widget
 education:
@@ -62,12 +63,12 @@ social:
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`,
 # and uncomment the lines below.
-# - icon: cv
+ - icon: cv
 #   icon_pack: ai
-#   link: uploads/resume.pdf
+#   link: https://drive.google.com/file/d/1x9cZHiMU977kkXfc5pclNT6sMeu2rjO8/view?usp=sharing
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ''
+email: 'hannahseidl@gmx.de'
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
