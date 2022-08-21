@@ -37,7 +37,7 @@ abstract: We study the effects of a tightening in the loan-to-value (LTV) ratio 
 tags: []
 
 # Display this page in the Featured widget?
-featured: false
+featured: true
 
 # Custom links (uncomment lines below)
 # links:
