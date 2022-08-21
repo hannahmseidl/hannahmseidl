@@ -10,8 +10,8 @@ role: Ph.D student in Economics at
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Humboldt-Universität zu Berlin and DIW Berlin
+    url: 
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
