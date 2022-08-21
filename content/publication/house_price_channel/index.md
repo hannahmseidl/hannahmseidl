@@ -1,11 +1,10 @@
 ---
-title: 'The Distributional Effects of Shocks to the Loan-to-Value Ratio'
+title: 'The House Price Channel of Quantitative Easing'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - Vanessa Schmidt
   - admin
 
 # Author notes (optional)
