@@ -6,7 +6,7 @@ title: 'Unconventional Fiscal Policy in HANK'
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - admin
-  - Fabian Seyrich
+  - [Fabian Seyrich](https://sites.google.com/view/fabianseyrich/home)
 
 # Author notes (optional)
 # author_notes:
