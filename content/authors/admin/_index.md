@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Hannah Seidl
+title: Hannah M. Seidl
 
 # Is this the primary user of the site?
 superuser: true
