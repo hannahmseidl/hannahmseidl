@@ -74,7 +74,7 @@ email: ''
 highlight_name: true
 ---
 
-I am a third year PhD student in Economics at Humboldt-Universität zu Berlin and a PhD fellow at the German Institute for Economic Research (DIW Berlin). In Fall 2022, I will be a Visiting Student Research Collaborator at the Economics Department at Princeton University. I am passionate about the potential of New Keynesian models with household heterogeneity to address the interaction between macroeconomic aggregates and inequality.  
+I am a third year PhD student in Economics at [Humboldt-Universität zu Berlin](https://www.wiwi.hu-berlin.de/de/professuren/vwl/wipo) where I am supervised by [Prof. Lutz Weinke](https://www.wiwi.hu-berlin.de/de/professuren/vwl/wipo/team/lutz-weinke). I am also affiliated with the [German Institute for Economic Research](https://www.diw.de/de/diw_01.c.619412.de/graduate_center.html) (DIW Berlin) as a PhD fellow. In the fall of 2022, I will be visiting [Princeton University](https://economics.princeton.edu/), following an invitation from [Prof. Gianluca Violante](https://sites.google.com/a/princeton.edu/glviolante/). I am passionate about the potential of New Keynesian models with household heterogeneity to address the interaction between macroeconomic aggregates and inequality.  
 
 <!-- {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
  -->
