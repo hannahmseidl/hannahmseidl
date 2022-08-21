@@ -63,16 +63,17 @@ social:
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`,
 # and uncomment the lines below.
- - icon: cv
+# - icon: cv
 #   icon_pack: ai
 #   link: https://drive.google.com/file/d/1x9cZHiMU977kkXfc5pclNT6sMeu2rjO8/view?usp=sharing
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: 'hannahseidl@gmx.de'
+email: ''
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
+
 I am a third year PhD student in Economics at the Humboldt-Universität zu Berlin and a PhD fellow at the German Institute for Economic Research (DIW Berlin). In Fall 2022, I am a Visiting Student Research Collaborator at the Economics Department at Princeton University. I am passionate about the potential of New Keynesian models with household heterogeneity to address the interaction between macroeconomic aggregates and inequality.  
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
