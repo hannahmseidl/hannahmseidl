@@ -40,9 +40,9 @@ tags: []
 featured: false
 
 # Custom links (uncomment lines below)
-# links:
-# - name: Custom Link
-#   url: http://example.org
+links:
+ - name: Custom Link
+   url: http://example.org
 
 url_pdf: 'https://drive.google.com/file/d/1ufOlayRQKlFGsR_-lQidSi2Kyx0nQb_O/view'
 url_code: ''
