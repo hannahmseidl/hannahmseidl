@@ -29,7 +29,7 @@ publication_types: ['3']
 # publication: In *Wowchemy Conference*
 # publication_short: In *ICW*
 
-abstract: We show that in a New Keynesian model with household heterogeneity, fiscal policy can be a perfect substitute for monetary policy three simple conditions for consumption taxes, labor taxes, and the government debt level are sufficient to induce the same consumption and labor supply of each household and, thus, the same allocation as interest rate policies.
+abstract: We show that in a New Keynesian model with household heterogeneity, fiscal policy can be a perfect substitute for monetary policy. Three simple conditions for consumption taxes, labor taxes, and the government debt level are sufficient to induce the same consumption and labor supply of each household and, thus, the same allocation as interest rate policies. When monetary policy is constrained by a binding lower bound, a currency union, or an exchange rate peg, fiscal policy can therefore replicate any allocation that hypothetically unconstrained monetary policy would generate.
 
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
