@@ -1,12 +1,12 @@
 ---
-title: 'Unconventional Fiscal Policy in HANK'
+title: 'The Distributional Effects of Shocks to the Loan-to-Value Ratio'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - admin
-  - Fabian Seyrich
+  - Vanessa Schmidt
 
 # Author notes (optional)
 # author_notes:
@@ -44,7 +44,7 @@ featured: false
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://drive.google.com/file/d/1ufOlayRQKlFGsR_-lQidSi2Kyx0nQb_O/view'
+url_pdf: ''
 url_code: ''
 url_dataset: ''
 url_poster: ''
@@ -76,12 +76,3 @@ projects: []
 slides: example
 ---
 
-{{% callout note %}}
-Click the _Cite_ button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
-
-{{% callout note %}}
-Create your slides in Markdown - click the _Slides_ button to check out the example.
-{{% /callout %}}
-
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
