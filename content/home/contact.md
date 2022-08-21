@@ -1,7 +1,6 @@
 ---
 # An instance of the Contact widget.
 widget: contact
-# active: false 
 
 # This file represents a page section.
 headless: true
@@ -27,15 +26,15 @@ content:
 
   # Contact details (edit or remove options as required)
   email: hannahseidl@gmx.de
-<!--   phone: 888 888 88 88 -->
+  phone: 888 888 88 88
   address:
     street: Mohrenstraße 58
     city: Berlin
-<!--     region: CA -->
+    region: Berlin
     postcode: '10117'
     country: Germany
     country_code: DE
-<!--   coordinates:
+  coordinates:
     latitude: '37.4275'
     longitude: '-122.1697'
   directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
@@ -51,8 +50,8 @@ content:
     - icon: video
       icon_pack: fas
       name: Zoom Me
-      link: 'https://zoom.com' -->
-<!-- 
+      link: 'https://zoom.com'
+
 design:
-  columns: '2' -->
+  columns: '2'
 ---
