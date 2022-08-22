@@ -31,7 +31,7 @@ content:
     street: Mohrenstraße 58
     city: Berlin
     region:
-    postcode: '10117'
+    postcode: '10117, Germany'
     country: Germany
     country_code: DE
 #  coordinates:
