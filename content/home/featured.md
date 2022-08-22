@@ -13,6 +13,8 @@ weight: 80
 title: Research
 subtitle: ''
 
+date_format: 2006
+
 content:
   # Page type to display. E.g. post, talk, publication...
   page_type: publication
