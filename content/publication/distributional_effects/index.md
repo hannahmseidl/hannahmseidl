@@ -12,7 +12,7 @@ authors:
 # author_notes:
 #  - 'Equal contribution'
 #  - 'Equal contribution'
-date_format: 2006
+
 date: '2022-01-01T00:00:00Z'
 doi: ''
 

@@ -12,6 +12,7 @@ weight: 90
 
 title: Research
 subtitle: ''
+date_format: 2006
 
 content:
   # Filter on criteria
