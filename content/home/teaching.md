@@ -26,23 +26,24 @@ design:
 
 ---
 
-+++
 <h2>Humboldt-Universität zu Berlin</h2>
 
-# _[Linguistics Department](https://linguistics.uoregon.edu/)_
-
-+ Econometrics (PhD), Fall 2021
+Fall 2021:
++ Econometrics (PhD)
 
 <h2>Freie Universität Berlin</h2>
 
-# _[Intensive English Program (IEP)](https://aei.uoregon.edu/programs/intensive)_
+Fall 2020:
++ Principles of Macroeconomics (undergraduate)
++ Macroeconomics Analysis (graduate)
++ Current Research Topics on International Macroeconomics (graduate)
++ Macroeconomic Colloquium (undergraduate & graduate)
 
-+ Principles of Macroeconomics (undergraduate), Fall 2020
-+ Macroeconomics Analysis (graduate), Fall 2020
-+ Current Research Topics on International Macroeconomics (graduate), Fall 2020
-+ Macroeconomic Colloquium (undergraduate & graduate), Fall 2020
-+ Current Research Topics on Macroeconomics (graduate), Spring 2020
-+ Macroeconomic Colloquium (undergraduate & graduate), Spring 2020
-+ Macroeconomic Analysis (graduate), Fall 2019
-+ Current Research Topics on Macroeconomics (graduate), Fall 2019
-+ Macroeconomic Colloquium (undergraduate & graduate), Fall 2019
+Spring 2020:
++ Current Research Topics on Macroeconomics (graduate)
++ Macroeconomic Colloquium (undergraduate & graduate)
+
+Fall 2019
++ Macroeconomic Analysis (graduate)
++ Current Research Topics on Macroeconomics (graduate)
++ Macroeconomic Colloquium (undergraduate & graduate)
