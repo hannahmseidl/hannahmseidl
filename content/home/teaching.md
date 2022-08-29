@@ -28,22 +28,22 @@ design:
 
 <h2>Humboldt-Universität zu Berlin</h2>
 
-Fall 2021:
+*Fall 2021:*
 + Econometrics (PhD)
 
 <h2>Freie Universität Berlin</h2>
 
-Fall 2020:
+*Fall 2020:*
 + Principles of Macroeconomics (undergraduate)
 + Macroeconomics Analysis (graduate)
 + Current Research Topics on International Macroeconomics (graduate)
 + Macroeconomic Colloquium (undergraduate & graduate)
 
-Spring 2020:
+*Spring 2020:*
 + Current Research Topics on Macroeconomics (graduate)
 + Macroeconomic Colloquium (undergraduate & graduate)
 
-Fall 2019
+*Fall 2019:*
 + Macroeconomic Analysis (graduate)
 + Current Research Topics on Macroeconomics (graduate)
 + Macroeconomic Colloquium (undergraduate & graduate)
