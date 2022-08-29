@@ -10,7 +10,7 @@ headless: true
 weight: 100
 
 # Section title
-title: Hello
+title: Teaching
 
 # Section subtitle
 subtitle:
@@ -18,9 +18,9 @@ subtitle:
 # Section design
 design:
   # Use a 1-column layout
-  columns: "2"
+  # columns: "2"
   # Use a dark navy background with light text.
-  background:
-    color: 'navy'
-    text_color_light: true
+  # background:
+  #  color: 'navy'
+  #  text_color_light: true
 ---
