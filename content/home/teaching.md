@@ -24,6 +24,8 @@ design:
   #  color: 'navy'
   #  text_color_light: true
 
+---
+
 +++
 <h2>University of Oregon Linguistics Department</h2>
 
@@ -79,5 +81,3 @@ _[Graduate Linguistics Department](https://inter.payap.ac.th/international-gradu
 _[English Language Program, Office of International Education](https://global.vcu.edu/elp/)_
 
 + Tudor – Pronunciation Coach (Summer ‘04)
-
----
