@@ -36,14 +36,12 @@ design:
 *Fall 2020:*
 + Principles of Macroeconomics (undergraduate)
 + Macroeconomics Analysis (graduate)
-+ Current Research Topics on International Macroeconomics (graduate)
 + Macroeconomic Colloquium (undergraduate & graduate)
 
 *Spring 2020:*
-+ Current Research Topics on Macroeconomics (graduate)
++ Current Research Topics in Macroeconomics (graduate)
 + Macroeconomic Colloquium (undergraduate & graduate)
 
 *Fall 2019:*
 + Macroeconomic Analysis (graduate)
-+ Current Research Topics on Macroeconomics (graduate)
 + Macroeconomic Colloquium (undergraduate & graduate)
