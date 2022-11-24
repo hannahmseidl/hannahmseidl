@@ -53,9 +53,9 @@ social:
 #  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
 #    icon_pack: fas
 #    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/hannahmseidl
+#  - icon: github
+ #   icon_pack: fab
+  #  link: https://github.com/hannahmseidl
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/hannah-seidl-73242419a/
@@ -63,8 +63,8 @@ social:
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`,
 # and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
+ - icon: cv
+   icon_pack: ai
 #   link: https://drive.google.com/file/d/1x9cZHiMU977kkXfc5pclNT6sMeu2rjO8/view?usp=sharing
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
