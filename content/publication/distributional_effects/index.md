@@ -30,7 +30,7 @@ publication_types: ['0']
 # publication: In *Wowchemy Conference*
 publication_short: Draft coming soon
 
-abstract: We study the effects of changes in the loan-to-value (LTV) ratio on inequality in a continuous time New Keynesian model with heterogeneous households and lumpy housing. 
+abstract: We study the effects of changes in the loan-to-value (LTV) ratio on inequality in a continuous time New Keynesian model with heterogeneous households and lumpy housing. We find that a loosening of the LTV ratio substantially lowers inequality. We further show that through redistributing from households with low marginal propensities to consume (MPC) to households with high MPCs, LTV changes have a sizable impact on macroeconomic aggregates: 
 
 # We study the effects of changes in the loan-to-value (LTV) ratio on inequality in a continuous time New Keynesian model with heterogeneous households and lumpy housing. We find that a loosening of the LTV ratio substantially lowers inequality. We further show that through redistributing from households with low marginal propensities to consume (MPC) to households with high MPCs, LTV changes have a sizable impact on macroeconomic aggregates: a loosening of the LTV ratio by 1 pp increases aggregate consumption and output by 0.45% and 1.3%, respectively.
 
