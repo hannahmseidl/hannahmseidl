@@ -26,14 +26,16 @@ design:
 
 ---
 
-+ **Gianluca Violante** \
+**Marcel Fratzscher** \
 Theodore A. Wells '29 Professor of Economics,  Princeton University \
 Email: violante@princeton.edu
 
-+ **Gianluca Violante** \
+
+**Gianluca Violante** \
 Theodore A. Wells '29 Professor of Economics,  Princeton University \
 Email: violante@princeton.edu
 
-+ **Gianluca Violante** \
+
+**Lutz Weinke** \
 Theodore A. Wells '29 Professor of Economics,  Princeton University \
 Email: violante@princeton.edu
