@@ -30,3 +30,10 @@ design:
 Theodore A. Wells '29 Professor of Economics,  Princeton University \
 Email: violante@princeton.edu
 
++ **Gianluca Violante** \
+Theodore A. Wells '29 Professor of Economics,  Princeton University \
+Email: violante@princeton.edu
+
++ **Gianluca Violante** \
+Theodore A. Wells '29 Professor of Economics,  Princeton University \
+Email: violante@princeton.edu
