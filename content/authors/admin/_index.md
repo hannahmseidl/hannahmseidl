@@ -28,7 +28,7 @@ education:
   courses:
     - course: PhD in Economics
       institution: Humboldt-Universität zu Berlin and DIW Berlin
-      year: 2024 (expected)
+      year: 2025 (expected)
     - course: MSc in Economics
       institution: Freie Universität Berlin
       year: 2019
