@@ -49,7 +49,7 @@ url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
-url_slides: ''
+url_slides: 'https://drive.google.com/file/d/1F2rRMsyygXT4WuAGq2ckRlRwiEffVmZS/view?usp=share_link'
 url_source: ''
 url_video: ''
 
