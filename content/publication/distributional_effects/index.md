@@ -29,7 +29,6 @@ publication_types: ['0']
 # Publication name and optional abbreviated publication name.
 # publication: In *Wowchemy Conference*
 publication_short: Draft available upon request
-
 abstract: We study the effects of movements in the loan-to-value (LTV) ratio on macroeconomic aggregates and inequality in a New Keynesian model with heterogeneous households and lumpy housing. We show that a loosening of the LTV ratio by 1pp increases aggregate nondurable consumption and output by 0.4% and 1.3%, respectively. We show that LTV shocks are mainly transmitted to macroeconomic aggregates through general equilibrium effects in the form of higher house prices and labor income: a higher maximum LTV constraint accelerates the adjustment threshold such that households close to their borrowing constraint demand more housing resulting in higher house prices. Higher house prices then transmit to aggregate consumption through an endowment income effect which increases labor income out of which households with on average high marginal propensities to consume disproportionately benefit amplifying the initial LTV stimulus. We also study the effects of LTV shocks on inequality since aggregate lending standards interact with incomplete markets as households are differently affected by intertemporal prices. We show that looser LTV limits redistribute housing wealth from the top 10\% to the bottom 50\% indicating an overall decrease of inequality in response to looser LTV constraints. 
 
 # Summary. An optional shortened abstract.
