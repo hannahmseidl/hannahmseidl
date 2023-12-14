@@ -13,7 +13,7 @@ authors:
 #  - 'Equal contribution'
 #  - 'Equal contribution'
 
-date: '2023-07-10T00:00:00Z'
+date: '2023-12-10T00:00:00Z'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
@@ -27,7 +27,7 @@ publication_types: ['3']
 
 # Publication name and optional abbreviated publication name.
 publication: Journal of Political Economy Macroeconomics
-publication_short: Working paper
+#publication_short: Working paper
 
 abstract: '**Journal of Political Economy Macroeconomics, Vol.1, Issue 4, 2023** <br> <br> We show that in a New Keynesian model with household heterogeneity, fiscal policy can be a perfect substitute for monetary policy. Three simple conditions for consumption taxes, labor taxes, and the government debt level are sufficient to induce the same consumption and labor supply of each household and, thus, the same allocation as interest rate policies. When monetary policy is constrained by a binding lower bound, a currency union, or an exchange rate peg, fiscal policy can therefore replicate any allocation that hypothetically unconstrained monetary policy would generate.'
 
