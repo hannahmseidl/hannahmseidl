@@ -1,5 +1,5 @@
 ---
-title: 'Unconventional Fiscal Policy in HANK'
+title: 'Unconventional Fiscal Policy in a Heterogeneous-Agent New Keynesian Model'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
@@ -26,10 +26,10 @@ doi: ''
 publication_types: ['3']
 
 # Publication name and optional abbreviated publication name.
-publication: Accepted at *Journal of Political Economy Macroeconomics* 
+publication: *Journal of Political Economy Macroeconomics* 
 publication_short: Working paper
 
-abstract: Accepted at *Journal of Political Economy Macroeconomics* <br> <br> We show that in a New Keynesian model with household heterogeneity, fiscal policy can be a perfect substitute for monetary policy. Three simple conditions for consumption taxes, labor taxes, and the government debt level are sufficient to induce the same consumption and labor supply of each household and, thus, the same allocation as interest rate policies. When monetary policy is constrained by a binding lower bound, a currency union, or an exchange rate peg, fiscal policy can therefore replicate any allocation that hypothetically unconstrained monetary policy would generate.
+abstract: Accepted at *Political Economy Macroeconomics, 2023.* <br> <br> We show that in a New Keynesian model with household heterogeneity, fiscal policy can be a perfect substitute for monetary policy. Three simple conditions for consumption taxes, labor taxes, and the government debt level are sufficient to induce the same consumption and labor supply of each household and, thus, the same allocation as interest rate policies. When monetary policy is constrained by a binding lower bound, a currency union, or an exchange rate peg, fiscal policy can therefore replicate any allocation that hypothetically unconstrained monetary policy would generate.
 
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
