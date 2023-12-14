@@ -1,6 +1,3 @@
-# ---
-# title: 'Unconventional Fiscal Policy in a Heterogeneous-Agent New Keynesian Model'
-# title: 'Aggregate Lending Standards and Inequality'
 ---
 title: 'Aggregate Lending Standards and Inequality'
 
