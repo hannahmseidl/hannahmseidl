@@ -1,6 +1,8 @@
 # ---
-title: 'Unconventional Fiscal Policy in a Heterogeneous-Agent New Keynesian Model'
+# title: 'Unconventional Fiscal Policy in a Heterogeneous-Agent New Keynesian Model'
 # title: 'Aggregate Lending Standards and Inequality'
+---
+title: 'Aggregate Lending Standards and Inequality'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
