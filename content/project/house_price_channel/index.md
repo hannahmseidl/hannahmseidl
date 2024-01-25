@@ -30,8 +30,7 @@ publication_short: Draft available upon request
 
 # abstract: : I study the effects of quantitative easing on aggregate consumption through house price movements in a state-of-the-art HANK model with # housing subject to fixed adjustment costs and frictional intermediation. 
 
-abstract: I study the effects of large scale asset purchases in the mortgage market (QE) on aggregate consumption in a continuous-time heterogeneous agent New Keynesian model with frictional financial intermediation and lumpy housing adjustment. I find a salient house price channel of QE. With binding leverage constraints of intermediaries, QE is relevant through decreasing the borrowing spread. With lumpy housing adjustment, this lower spread accelerates the adjustment threshold which increases the adjustment intensity and house prices. 
-These higher house prices then increase aggregate consumption and output through incomplete markets and general equilibrium by redistributing wealth to households with on average high marginal propensities to consume.
+abstract: I study the effects of large scale asset purchases in the mortgage market (QE) on aggregate consumption in a continuous-time heterogeneous agent New Keynesian model with frictional financial intermediation and lumpy housing adjustment. I find a salient house price channel of QE. With binding leverage constraints of intermediaries, QE is relevant through decreasing the borrowing spread. With lumpy housing adjustment, this lower spread accelerates the adjustment threshold which increases the adjustment intensity and house prices. These higher house prices then increase aggregate consumption and output through incomplete markets and general equilibrium by redistributing wealth to households with on average high marginal propensities to consume.
 
 
 # Summary. An optional shortened abstract.
