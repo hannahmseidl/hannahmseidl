@@ -32,7 +32,7 @@ publication_types: ['0']
 # publication: Revise & Resubmit at *Journal of Political Economy Macroeconomics*
 publication_short: Working paper
 
-abstract: Draft available upon request. <br> <br> We study the effects of movements in aggregate lending standards on macroeconomic aggregates and inequality in a New Keynesian model with heterogeneous households and lumpy housing. We show that a looser LTV ratio stimulates aggregate nondurable consumption and output, and that the transmission mechanism mainly works through general equilibrium effects in the form of higher house prices and labor income. We also show that LTV ratios entail distributional dynamics as households are differently affected by intertemporal prices in a model with incomplete markets. Looser LTV limits redistribute housing wealth from the top 10% to the bottom 50% indicating an overall decrease of inequality. 
+abstract: Draft available upon request. <br> <br> We study the effects of movements in aggregate lending standards on macroeconomic aggregates and inequality in a New Keynesian model with heterogeneous households and housing. We show that a looser loan-to-value (LTV) ratio stimulates housing demand, nondurable consumption, and output. We highlight that LTV shocks are mainly transmitted to macroeconomic aggregates through general equilibrium effects in the form of higher house prices and labor income. We also show that looser LTV limits redistribute housing wealth from the top 10% to the bottom 50% indicating an overall decrease of inequality.
 
 
 # Summary. An optional shortened abstract.
