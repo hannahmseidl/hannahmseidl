@@ -30,7 +30,8 @@ publication_short: Draft available upon request
 
 # abstract: : I study the effects of quantitative easing on aggregate consumption through house price movements in a state-of-the-art HANK model with # housing subject to fixed adjustment costs and frictional intermediation. 
 
-abstract: Draft available upon request. <br> <br> I study the transmission mechanism of quantitative easing (QE) in the form of large-scale asset purchases in the mortgage market to aggregate consumption in a HANK model with housing and financial frictions. I show that an important channel of the transmission of QE is to increase house prices which increases aggregate consumption. My model generates large effects of QE on house prices through frictional financial intermediation and a microfounded housing market. Higher house prices, in turn, substantially increase aggregate consumption since my model features on average high marginal propensities to consume through heterogeneous households and collateral constraints. Policymakers can thus resort to QE rather than to blunt interest rate policies when the aim is to stabilize housing markets and stimulate the economy.
+abstract: Draft available upon request. <br> <br> I study the transmission mechanism of Quantitative Easing (QE) in the form of large-scale asset purchases in the mortgage market to aggregate consumption. I build a New Keynesian model with heterogeneous households, a microfounded housing market, and frictional intermediation. This model provides a theory for the empirical evidence that QE transmits to aggregate consumption through increasing house prices. I find that higher house prices account for around half of the stimulative effects of QE with higher labor income accounting for the remaining half. 
+
 
 
 
