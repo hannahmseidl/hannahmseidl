@@ -27,6 +27,8 @@ design:
 ---
 
 <h2>Humboldt-Universität zu Berlin</h2>
+*Fall 2024:*
++ Econometrics (PhD)
 
 *Fall 2021:*
 + Econometrics (PhD)
