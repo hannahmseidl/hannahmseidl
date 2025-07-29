@@ -23,7 +23,7 @@ authors:
 #  - 'Equal contribution'
 #  - 'Equal contribution'
 
-date: '2025-05-05T00:00:00Z'
+date: '2025-01-09T00:00:00Z'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
@@ -41,7 +41,8 @@ publication_short: DIW Weekly Report, 20/21/22, 2025
 
 # abstract: : I study the effects of quantitative easing on aggregate consumption through house price movements in a state-of-the-art HANK model with # housing subject to fixed adjustment costs and frictional intermediation. 
 
-abstract: DIW Weekly Report, 20/21/22, 2025 
+# abstract: We study the effects of movements in aggregate lending standards on macroeconomic aggregates and inequality. We show in a New Keynesian model with heterogeneous households and housing that a looser loan-to-value (LTV) ratio stimulates housing demand, nondurable consumption, and output. Our model implies that the LTV shock transmits to macroeconomic aggregates through higher household liquidity and a general-equilibrium increase in house prices and labor income. We also show that a looser LTV ratio redistributes housing wealth from the top 10% of the housing wealth distribution to the bottom 50%, indicating an overall decrease of inequality.
+
 
 
 
@@ -51,7 +52,7 @@ abstract: DIW Weekly Report, 20/21/22, 2025
 tags: []
 
 # Display this page in the Featured widget?
-# featured: true
+featured: true
 
 # Custom links (uncomment lines below)
 # links:
