@@ -21,7 +21,7 @@ main:
     url: '#featured'
     weight: 20
 
-  - name: Work in progress
+  - name: Working papers
     url: '#projects'
     weight: 30
 
