@@ -5,18 +5,11 @@ title: 'Geopolitischer Umbruch verschärft Krise – Strukturreformen noch dring
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - Geraldine Dany-Knedlik
-  - Guido Baldi
-  - Nina Maria Brehl
-  - Hella Engerer
-  - Angelina Hackmann
-  - Konstantin A. Kholodilin
-  - Frederik Kurcz, Laura Pagenhardt
-  - Jan-Christopher Scherer
-  - Teresa Schildmann
-  - admin
-  - Ruben Staffa
-  - Kristin Trautmann
+  - DIW
+  - Ifo
+  - IfW
+  - IWH
+  - RWI
 
 # Author notes (optional)
 # author_notes:
@@ -37,7 +30,7 @@ publication_types: ['4']
 
 # Publication name and optional abbreviated publication name.
 # publication: In *Wowchemy Conference*
-publication_short: DIW Weekly Report, 20/21/22, 2025 
+publication_short: Gemeinschaftsdiagnose Frühjahr 2025
 
 # abstract: : I study the effects of quantitative easing on aggregate consumption through house price movements in a state-of-the-art HANK model with # housing subject to fixed adjustment costs and frictional intermediation. 
 
@@ -59,7 +52,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://www.diw.de/documents/publikationen/73/diw_01.c.960734.de/dwr-25-22.pdf'
+url_pdf: 'https://gemeinschaftsdiagnose.de/wp-content/uploads/2025/05/GD25F_final.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
