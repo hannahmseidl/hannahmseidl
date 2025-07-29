@@ -6,11 +6,11 @@ title: Hannah Seidl
 superuser: true
 
 # Role/position/tagline
-role: Ph.D. student in Economics 
+role: Postdoctoral researcher
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Humboldt-Universität zu Berlin and DIW Berlin
+  - name: DIW Berlin
     url: 
 
 # Short bio (displayed in user profile at end of posts)
@@ -28,7 +28,7 @@ education:
   courses:
     - course: PhD in Economics
       institution: Humboldt-Universität zu Berlin and DIW Berlin
-      year: 2025 (expected)
+      year: 2025 
     - course: MSc in Economics
       institution: Freie Universität Berlin
       year: 2019
@@ -46,7 +46,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:hannahseidl@gmx.de'
+    link: 'mailto:hseidl@diw.de'
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/hannahmseidl
@@ -73,8 +73,7 @@ email: ''
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-
-I am a sixth year PhD student in Economics at [Humboldt-Universität zu Berlin](https://www.wiwi.hu-berlin.de/de/professuren/vwl/wipo) where I am advised by [Prof. Lutz Weinke](https://www.wiwi.hu-berlin.de/de/professuren/vwl/wipo/team/lutz-weinke). I am also affiliated with the [German Institute for Economic Research](https://www.diw.de/de/diw_01.c.619412.de/graduate_center.html) (DIW Berlin) as a PhD fellow. In the Fall Semester 2022, I visited [Princeton University](https://economics.princeton.edu/), following an invitation from [Prof. Gianluca Violante](https://sites.google.com/a/princeton.edu/glviolante/). I am passionate about the potential of New Keynesian models with household heterogeneity to address the interaction between macroeconomic aggregates and inequality.  
+I am a postdoctoral researcher at the [German Institute for Economic Research](https://www.diw.de/en/diw_01.c.617008.en/macroeconomics_department.html) (DIW Berlin), where I also lead the World Forecast of the institute’s forecasting team. I hold a PhD in Economics from [Humboldt-Universität zu Berlin](https://www.wiwi.hu-berlin.de/de/professuren/vwl/wipo), where I was advised by [Prof. Lutz Weinke](https://www.wiwi.hu-berlin.de/de/professuren/vwl/wipo/team/lutz-weinke). During my PhD, I visited [Princeton University](https://economics.princeton.edu/), following an invitation from [Prof. Gianluca Violante](https://sites.google.com/a/princeton.edu/glviolante/). I am passionate about the potential of New Keynesian models with household heterogeneity to address the interaction between macroeconomic aggregates and inequality.
 
 <!-- {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
  -->
