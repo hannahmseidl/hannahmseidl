@@ -70,3 +70,6 @@ security:
   _merge: deep
 sitemap:
   _merge: deep
+
+  params:
+  show_reading_time: false
