@@ -1,6 +1,3 @@
-
-
-
 ---
 title: 'Aggregate Lending Standards and Inequality'
 
@@ -8,7 +5,6 @@ title: 'Aggregate Lending Standards and Inequality'
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - Vanessa Schmidt
   - admin
 
 # Author notes (optional)
@@ -16,8 +12,7 @@ authors:
 #  - 'Equal contribution'
 #  - 'Equal contribution'
 
-date: '2025-08-08T00:00:00Z'
-#date: '2022-01-01T00:00:00Z'
+date: '2024-01-09T00:00:00Z'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
@@ -30,12 +25,14 @@ doi: ''
 publication_types: ['0']
 
 # Publication name and optional abbreviated publication name.
-# publication: Draft available upon request
+# publication: In *Wowchemy Conference*
+publication_short: Draft available upon request
 
-# publication: Revise & Resubmit at *Journal of Political Economy Macroeconomics*
-publication_short: Working paper
+# abstract: : I study the effects of quantitative easing on aggregate consumption through house price movements in a state-of-the-art HANK model with # housing subject to fixed adjustment costs and frictional intermediation. 
 
-# abstract: Draft available upon request. <br> <br> I study the transmission mechanism of Quantitative Easing (QE) in the form of large-scale asset purchases in the mortgage market to aggregate consumption. I build a New Keynesian model with heterogeneous households, a microfounded housing market, and frictional intermediation. This model provides a theory for the empirical evidence that QE transmits to aggregate consumption through increasing house prices. I find that higher house prices account for around half of the stimulative effects of QE with higher labor income accounting for the remaining half. 
+abstract: Draft available upon request. <br> <br> I study the transmission mechanism of Quantitative Easing (QE) in the form of large-scale asset purchases in the mortgage market to aggregate consumption. I build a New Keynesian model with heterogeneous households, a microfounded housing market, and frictional intermediation. This model provides a theory for the empirical evidence that QE transmits to aggregate consumption through increasing house prices. I find that higher house prices account for around half of the stimulative effects of QE with higher labor income accounting for the remaining half. 
+
+
 
 
 # Summary. An optional shortened abstract.
@@ -51,7 +48,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-# url_pdf: 'https://drive.google.com/file/d/1R4yUwE2V4ijwJlQbeHF6QylSP7op5JSU/view?usp=share_link'
+url_pdf: ''
 url_code: ''
 url_dataset: ''
 url_poster: ''
@@ -82,3 +79,4 @@ projects: []
 #   Otherwise, set `slides: ""`.
 slides: example
 ---
+
