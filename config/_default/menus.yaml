@@ -25,9 +25,13 @@ main:
     url: '#projects'
     weight: 30
     
+  - name: Work in progress
+    url: '#projects'
+    weight: 40
+    
   - name: Teaching
     url: '#teaching'
-    weight: 40
+    weight: 50
 
   - name: References
     url: '#reference'
