@@ -41,8 +41,7 @@ publication_short: DIW Weekly Report, 20/21/22, 2025
 
 # abstract: : I study the effects of quantitative easing on aggregate consumption through house price movements in a state-of-the-art HANK model with # housing subject to fixed adjustment costs and frictional intermediation. 
 
-# abstract: I study the transmission mechanism of Quantitative Easing (QE) in the form of large-scale asset purchases in the mortgage market to aggregate consumption. To this end, I develop a New Keynesian model that features heterogeneous households, a microfounded housing market, and frictional intermediation. This model helps explain the empirical evidence suggesting that QE increases aggregate consumption by raising house prices. I find that higher house prices account for around half of QE's stimulative effects, with higher labor income contributing the remaining half.
-
+abstract: DIW Weekly Report, 20/21/22, 2025 
 
 
 
