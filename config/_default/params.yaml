@@ -94,8 +94,6 @@ features:
     provider: ''
     api_key: ''
     zoom: 15
-  page:
-  show_reading_time: false
 
 # Extensions
 
