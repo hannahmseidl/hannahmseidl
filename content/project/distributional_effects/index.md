@@ -32,7 +32,7 @@ publication_types: ['0']
 # publication: Revise & Resubmit at *Journal of Political Economy Macroeconomics*
 publication_short: Working paper
 
-abstract: Draft available upon request. <br> <br> I study the transmission mechanism of Quantitative Easing (QE) in the form of large-scale asset purchases in the mortgage market to aggregate consumption. I build a New Keynesian model with heterogeneous households, a microfounded housing market, and frictional intermediation. This model provides a theory for the empirical evidence that QE transmits to aggregate consumption through increasing house prices. I find that higher house prices account for around half of the stimulative effects of QE with higher labor income accounting for the remaining half. 
+# abstract: Draft available upon request. <br> <br> I study the transmission mechanism of Quantitative Easing (QE) in the form of large-scale asset purchases in the mortgage market to aggregate consumption. I build a New Keynesian model with heterogeneous households, a microfounded housing market, and frictional intermediation. This model provides a theory for the empirical evidence that QE transmits to aggregate consumption through increasing house prices. I find that higher house prices account for around half of the stimulative effects of QE with higher labor income accounting for the remaining half. 
 
 
 # Summary. An optional shortened abstract.
@@ -48,7 +48,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://drive.google.com/file/d/1R4yUwE2V4ijwJlQbeHF6QylSP7op5JSU/view?usp=share_link'
+# url_pdf: 'https://drive.google.com/file/d/1R4yUwE2V4ijwJlQbeHF6QylSP7op5JSU/view?usp=share_link'
 url_code: ''
 url_dataset: ''
 url_poster: ''
