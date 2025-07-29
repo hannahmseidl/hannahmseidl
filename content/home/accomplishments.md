@@ -1,7 +1,7 @@
 ---
 # An instance of the Accomplishments widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
-widget: accomplishments
+widget: featured
 active: true 
 
 # This file represents a page section.
@@ -16,7 +16,7 @@ subtitle: ''
 
 content:
   # Page type to display. E.g. project.
-  page_type: project
+  page_type: accomplishment
   # Choose how many pages you would like to display (0 = all pages)
   count: 0
   # Filter on criteria
@@ -34,5 +34,5 @@ design:
   #   2 = Compact
   #   3 = Card
   #   4 = Citation (publication only)
-  view: 3
+  view: 4
 ---
