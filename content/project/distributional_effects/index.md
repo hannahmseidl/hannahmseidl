@@ -30,7 +30,7 @@ publication_short: Draft available upon request
 
 # abstract: : I study the effects of quantitative easing on aggregate consumption through house price movements in a state-of-the-art HANK model with # housing subject to fixed adjustment costs and frictional intermediation. 
 
-abstract: <br> <br> We study the effects of movements in aggregate lending standards on macroeconomic aggregates and inequality. We show in a New Keynesian model with heterogeneous households and housing that a looser loan-to-value (LTV) ratio stimulates housing demand, nondurable consumption, and output. Our model implies that the LTV shock transmits to macroeconomic aggregates through higher household liquidity and a general-equilibrium increase in house prices and labor income. We also show that a looser LTV ratio redistributes housing wealth from the top 10% of the housing wealth distribution to the bottom 50%, indicating an overall decrease of inequality.
+abstract: We study the effects of movements in aggregate lending standards on macroeconomic aggregates and inequality. We show in a New Keynesian model with heterogeneous households and housing that a looser loan-to-value (LTV) ratio stimulates housing demand, nondurable consumption, and output. Our model implies that the LTV shock transmits to macroeconomic aggregates through higher household liquidity and a general-equilibrium increase in house prices and labor income. We also show that a looser LTV ratio redistributes housing wealth from the top 10% of the housing wealth distribution to the bottom 50%, indicating an overall decrease of inequality.
 
 
 
