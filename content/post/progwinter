@@ -25,7 +25,7 @@ authors:
 #  - 'Equal contribution'
 #  - 'Equal contribution'
 
-date: '2025-01-09T00:00:00Z'
+date: '2025-01-01T00:00:00Z'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
@@ -39,7 +39,7 @@ publication_types: ['4']
 
 # Publication name and optional abbreviated publication name.
 # publication: In *Wowchemy Conference*
-publication_short: DIW Weekly Report, 20/21/22, 2025 
+publication_short: DIW Weekly Report, 10/11, 2025
 
 # abstract: : I study the effects of quantitative easing on aggregate consumption through house price movements in a state-of-the-art HANK model with # housing subject to fixed adjustment costs and frictional intermediation. 
 
