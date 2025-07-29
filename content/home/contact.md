@@ -25,10 +25,10 @@ content:
   #    captcha: false
 
   # Contact details (edit or remove options as required)
-  email: hannahseidl@gmx.de
+  email: hseidl@diw.de
 #  phone: 888 888 88 88
   address:
-    street: Mohrenstraße 58
+    street: Anton-Wilhelm-Amo-Straße 58
     city: Berlin
     region:
     postcode: '10117, Germany'
