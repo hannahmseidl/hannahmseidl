@@ -94,6 +94,8 @@ features:
     provider: ''
     api_key: ''
     zoom: 15
+  page:
+  show_reading_time: false
 
 # Extensions
 
@@ -109,5 +111,4 @@ extensions:
 security:
   # Allow frame for embedding speaker notes in slides
   allow_frame: true
-  page:
-  show_reading_time: false
+  
