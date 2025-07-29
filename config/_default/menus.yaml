@@ -30,7 +30,7 @@ main:
     weight: 35
 
  - name: Policy reports
-    url: '#projects'
+    url: '#posts'
     weight: 37
     
     
