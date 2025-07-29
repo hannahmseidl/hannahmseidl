@@ -24,15 +24,15 @@ main:
   - name: Working papers
     url: '#projects'
     weight: 30
-    
+
+
   - name: Work in progress
     url: '#accomplishments'
     weight: 35
-
+  
  - name: Policy reports
     url: '#posts'
     weight: 37
-    
     
   - name: Teaching
     url: '#teaching'
