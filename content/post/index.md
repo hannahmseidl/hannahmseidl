@@ -1,18 +1,29 @@
 ---
-title: 'economic outlook'
+title: 'Tariff Chaos Overshadowing the Global Economy; Fiscal Package Bolstering the German Economy'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - admin
+  - Geraldine Dany-Knedlik
+  - Guido Baldi
+  - Nina Maria Brehl
+  - Hella Engerer
+  - Angelina Hackmann
+  - Konstantin A. Kholodilin
+  - Frederik Kurcz, Laura Pagenhardt
+  - Jan-Christopher Scherer
+  - Teresa Schildmann
+  - Ruben Staffa
+  - Kristin Trautmann
 
 # Author notes (optional)
 # author_notes:
 #  - 'Equal contribution'
 #  - 'Equal contribution'
 
-date: '2025-01-10T00:00:00Z'
+date: '2025-05-05T00:00:00Z'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
@@ -26,11 +37,11 @@ publication_types: ['0']
 
 # Publication name and optional abbreviated publication name.
 # publication: In *Wowchemy Conference*
-publication_short: Draft available upon request
+publication_short: DIW Weekly Report, 20/21/22, 2025 
 
 # abstract: : I study the effects of quantitative easing on aggregate consumption through house price movements in a state-of-the-art HANK model with # housing subject to fixed adjustment costs and frictional intermediation. 
 
-abstract: I study the transmission mechanism of Quantitative Easing (QE) in the form of large-scale asset purchases in the mortgage market to aggregate consumption. To this end, I develop a New Keynesian model that features heterogeneous households, a microfounded housing market, and frictional intermediation. This model helps explain the empirical evidence suggesting that QE increases aggregate consumption by raising house prices. I find that higher house prices account for around half of QE's stimulative effects, with higher labor income contributing the remaining half.
+# abstract: I study the transmission mechanism of Quantitative Easing (QE) in the form of large-scale asset purchases in the mortgage market to aggregate consumption. To this end, I develop a New Keynesian model that features heterogeneous households, a microfounded housing market, and frictional intermediation. This model helps explain the empirical evidence suggesting that QE increases aggregate consumption by raising house prices. I find that higher house prices account for around half of QE's stimulative effects, with higher labor income contributing the remaining half.
 
 
 
@@ -48,7 +59,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://drive.google.com/file/d/1daffsefFrysXdY_2loOO0lD23Kh_LTB-/view?usp=share_link'
+url_pdf: 'https://www.diw.de/documents/publikationen/73/diw_01.c.960734.de/dwr-25-22.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
