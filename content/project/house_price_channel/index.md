@@ -48,7 +48,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: ''
+url_pdf: 'https://drive.google.com/file/d/1daffsefFrysXdY_2loOO0lD23Kh_LTB-/view?usp=share_link'
 url_code: ''
 url_dataset: ''
 url_poster: ''
