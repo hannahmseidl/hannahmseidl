@@ -28,6 +28,10 @@ main:
   - name: Work in progress
     url: '#accomplishments'
     weight: 40
+
+  - name: Policy reports
+    url: '#posts'
+    weight: 45
     
   - name: Teaching
     url: '#teaching'
