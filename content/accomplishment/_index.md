@@ -1,19 +1,19 @@
 ---
-title: 'Who Gets Automated? Worker Heterogeneity and Aggregate Demand'
+title: 'Aggregate Lending Standards and Inequality'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - Alina Ermolaeva
   - admin
+  - Vanessa Schmidt
 
 # Author notes (optional)
 # author_notes:
 #  - 'Equal contribution'
 #  - 'Equal contribution'
 
-date: '2026-01-01T00:00:00Z'
+date: '2025-01-09T00:00:00Z'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
@@ -23,15 +23,15 @@ doi: ''
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ['4']
+publication_types: ['0']
 
 # Publication name and optional abbreviated publication name.
 # publication: In *Wowchemy Conference*
-# publication_short: DIW Weekly Report, 50/51/52, 2024
+publication_short: Draft available upon request
 
 # abstract: : I study the effects of quantitative easing on aggregate consumption through house price movements in a state-of-the-art HANK model with # housing subject to fixed adjustment costs and frictional intermediation. 
 
-# abstract: We study the effects of movements in aggregate lending standards on macroeconomic aggregates and inequality. We show in a New Keynesian model with heterogeneous households and housing that a looser loan-to-value (LTV) ratio stimulates housing demand, nondurable consumption, and output. Our model implies that the LTV shock transmits to macroeconomic aggregates through higher household liquidity and a general-equilibrium increase in house prices and labor income. We also show that a looser LTV ratio redistributes housing wealth from the top 10% of the housing wealth distribution to the bottom 50%, indicating an overall decrease of inequality.
+abstract: We study the effects of movements in aggregate lending standards on macroeconomic aggregates and inequality. We show in a New Keynesian model with heterogeneous households and housing that a looser loan-to-value (LTV) ratio stimulates housing demand, nondurable consumption, and output. Our model implies that the LTV shock transmits to macroeconomic aggregates through higher household liquidity and a general-equilibrium increase in house prices and labor income. We also show that a looser LTV ratio redistributes housing wealth from the top 10% of the housing wealth distribution to the bottom 50%, indicating an overall decrease of inequality.
 
 
 
@@ -49,7 +49,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-# url_pdf: 'https://www.diw.de/documents/publikationen/73/diw_01.c.930686.de/dwr-24-50.pdf'
+url_pdf: 'https://drive.google.com/file/d/1R4yUwE2V4ijwJlQbeHF6QylSP7op5JSU/view?usp=share_link'
 url_code: ''
 url_dataset: ''
 url_poster: ''
@@ -80,5 +80,4 @@ projects: []
 #   Otherwise, set `slides: ""`.
 slides: example
 ---
-
 
