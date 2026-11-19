@@ -1,6 +1,6 @@
 ---
 title: Work in Progress
-cms_exclude: true
+cms_exclude: wrong
 
 # View.
 #   1 = List
