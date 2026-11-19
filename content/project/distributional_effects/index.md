@@ -6,6 +6,7 @@ title: 'Aggregate Lending Standards and Inequality'
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - admin
+  - Alina Ermolaeva
   - Vanessa Schmidt
 
 # Author notes (optional)
@@ -31,7 +32,7 @@ publication_short: Draft available upon request
 
 # abstract: : I study the effects of quantitative easing on aggregate consumption through house price movements in a state-of-the-art HANK model with # housing subject to fixed adjustment costs and frictional intermediation. 
 
-abstract: We study the effects of movements in aggregate lending standards on macroeconomic aggregates and inequality. We show in a New Keynesian model with heterogeneous households and housing that a looser loan-to-value (LTV) ratio stimulates housing demand, nondurable consumption, and output. Our model implies that the LTV shock transmits to macroeconomic aggregates through higher household liquidity and a general-equilibrium increase in house prices and labor income. We also show that a looser LTV ratio redistributes housing wealth from the top 10% of the housing wealth distribution to the bottom 50%, indicating an overall decrease of inequality.
+abstract: How do changes in aggregate lending standards affect macroeconomic aggregates and inequality? We study a maximum loan-to-value ratio on new mortgages in a New Keynesian model with heterogeneous households, owner-occupied and rental housing, and costly refinancing. A looser standard stimulates consumption, output, and house prices. The additional credit accounts for only one fifth of the consumption response. Most of the response arises through the general-equilibrium increase in labor income and house prices. The credit raises consumption through owners who refinance existing mortgages, not through new purchase loans. A looser standard also reduces inequality. Consumption inequality falls, and half of the decline comes from low-income owners who extract equity. Net-wealth inequality falls because higher house prices raise net wealth most for leveraged owners in the middle of the wealth distribution.
 
 
 
