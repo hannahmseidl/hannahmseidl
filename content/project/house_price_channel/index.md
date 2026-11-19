@@ -6,6 +6,7 @@ title: 'The House Price Channel of Quantitative Easing'
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - admin
+  - Alina Ermolaeva
 
 # Author notes (optional)
 # author_notes:
@@ -22,15 +23,16 @@ doi: ''
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ['0']
+publication_types: ['3']
 
 # Publication name and optional abbreviated publication name.
 # publication: In *Wowchemy Conference*
+publication: Draft available upon request
 publication_short: Draft available upon request
 
 # abstract: : I study the effects of quantitative easing on aggregate consumption through house price movements in a state-of-the-art HANK model with # housing subject to fixed adjustment costs and frictional intermediation. 
 
-abstract: I study the transmission mechanism of Quantitative Easing (QE) in the form of large-scale asset purchases in the mortgage market to aggregate consumption. To this end, I develop a New Keynesian model that features heterogeneous households, a microfounded housing market, and frictional intermediation. This model helps explain the empirical evidence suggesting that QE increases aggregate consumption by raising house prices. I find that higher house prices account for around half of QE's stimulative effects, with higher labor income contributing the remaining half.
+abstract: We study the transmission mechanism of Quantitative Easing (QE) in the form of large-scale asset purchases in the mortgage market to aggregate consumption. To this end, we develop a New Keynesian model that features heterogeneous households, a microfounded housing market, and frictional intermediation. This model helps explain the empirical evidence suggesting that QE increases aggregate consumption by raising house prices. We find that higher house prices account for around half of QE's stimulative effects, with higher labor income contributing the remaining half.
 
 
 
@@ -48,7 +50,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://drive.google.com/file/d/1daffsefFrysXdY_2loOO0lD23Kh_LTB-/view?usp=share_link'
+# url_pdf: 'https://drive.google.com/file/d/1daffsefFrysXdY_2loOO0lD23Kh_LTB-/view?usp=share_link'
 url_code: ''
 url_dataset: ''
 url_poster: ''
